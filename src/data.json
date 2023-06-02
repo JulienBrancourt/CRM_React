@@ -1,0 +1,23 @@
+[
+    {
+        "prenom": "Emmanuel",
+        "nom": "Henry",
+        "email": "me@me.com",
+        "compagnie": "LinkedIn",
+        "notes": "voici mes notes"
+    },
+    {
+        "prenom": "Manny",
+        "nom": "Henry",
+        "email": "me2@me.com",
+        "compagnie": "LinkedIn",
+        "notes": "voici mes notes aussi"
+    },
+    {
+        "prenom": "Manuello",
+        "nom": "Henry",
+        "email": "me3@me.com",
+        "compagnie": "LinkedIn",
+        "notes": "voici mes notes"
+    }
+]
